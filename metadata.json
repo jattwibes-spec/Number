@@ -1,0 +1,6 @@
+{
+  "name": "NexusSearch",
+  "description": "Next-generation secure enterprise and consented directory search platform with administrative controls and real-time API sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
